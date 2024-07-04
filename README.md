@@ -18,4 +18,4 @@ For any inquiries or collaborations, feel free to reach out:
   
 # Reference
 You may visit my LinkedIn post to refer.
-* Link: 
+* Link-
