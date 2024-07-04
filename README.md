@@ -1,5 +1,3 @@
-# PRODIGY_SD-03
-Prodigy InfoTech Software Development Internship Task-3
 
 # Prodigy InfoTech Internship: Software Development
 Welcome to the Prodigy InfoTech Internship repository! These repository documents are for Task 3 of my internship journey, which focuses on creating innovative, simple, flexible programs.
